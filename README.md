@@ -8,8 +8,8 @@ Welcome to the Neural Networks Repository! This repository contains various code
 In this repository, you'll find code examples and projects focusing on neural networks, their architectures, and applications in different domains.
 
 ## Projects
-- [Handwritten Number Detection](/ENG/Learning1ES.ipynb)
-- [Clothing Item Detection](/ENG/Learning2ES.ipynb)
+- [Handwritten Number Detection](/ENG/Learning1EN.ipynb)
+- [Clothing Item Detection](/ENG/Learning2EN.ipynb)
 
 ## Language Options
 - [Spanish](/ESP/README_ES.md)
