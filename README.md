@@ -1,14 +1,18 @@
 # Neural Networks Project
 
-![1000_F_509951374_kvTFQJXSOIBPcM6UkwYeNVBPxvjFiuy0](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/878073ac-5f4a-4ada-b9d6-d46a48c64ad7)
+![Neural Networks](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/878073ac-5f4a-4ada-b9d6-d46a48c64ad7)
 
-Welcome to the Neural Networks Repository! This repository contains various code and documents related to neural networks and deep learning.
+Welcome to the Neural Networks Repository! This repository contains various code and documents related to neural networks and Deep Learning.
 
 ## Introduction
-In this repository, you'll find tutorials, code samples, and projects focusing on neural networks, their architectures, and applications in different domains. Whether you're a beginner or an experienced practitioner, there's something here for everyone interested in exploring the fascinating world of artificial neural networks.
+In this repository, you'll find code examples and projects focusing on neural networks, their architectures, and applications in different domains.
+
+## Projects
+- [Handwritten Number Detection](/ENG/Learning1ES.ipynb)
+- [Clothing Item Detection](/ENG/Learning2ES.ipynb)
 
 ## Language Options
-- [View README in Spanish](./ESP/README_ES.md)
+- [Spanish](/README_ES.md)
 
-Feel free to explore the content and don't hesitate to reach out if you have any questions or suggestions!
-
+## License
+![License](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/e9a4f145-e3f8-4732-9e6a-5419c7863341)
