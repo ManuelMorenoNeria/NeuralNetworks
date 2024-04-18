@@ -11,7 +11,7 @@ En este repositorio encontrarás ejemplos de código y proyectos centrados en re
 - [Deteccion de numeros escritos a mano](/ESP/Learning1ES.ipynb)
 - [Deteccion de tipos de prendas de ropa](/ESP/Learning2ES.ipynb)
 ## Opciones de Idioma
-- [Inglés](/NeuralNetworks/README.md)
+- [Inglés](/README.md)
 
 ## Licencia
 ![download](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/e9a4f145-e3f8-4732-9e6a-5419c7863341)
