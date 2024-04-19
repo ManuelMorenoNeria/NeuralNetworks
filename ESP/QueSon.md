@@ -14,9 +14,9 @@ Están compuestas por unidades llamadas **neuronas**, dispuestas en capas interc
 
 Cada neurona en una red neuronal tiene tres elementos principales:
 
-- *Pesos:* Son valores numéricos que indican la importancia de las entradas para la neurona.
-- *Suma ponderada:* Cada neurona calcula la suma ponderada de las entradas multiplicadas por sus pesos.
-- *Función de activación:* Determina si una neurona se activa o no en función de su suma ponderada. 
+- **Pesos:** Son valores numéricos que indican la importancia de las entradas para la neurona.
+- **Suma ponderada:** Cada neurona calcula la suma ponderada de las entradas multiplicadas por sus pesos.
+- **Función de activación:** Determina si una neurona se activa o no en función de su suma ponderada. 
 
 ![51549981077_3a7a520c81_b](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/da85bd68-1a55-49ce-ab79-272db89f3b5e)
 
