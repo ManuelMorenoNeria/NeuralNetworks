@@ -14,6 +14,9 @@ En este repositorio encontrarás ejemplos de código y proyectos centrados en re
 ## Proyectos
 - [Deteccion de numeros escritos a mano](/ESP/Learning1ES.ipynb)
 - [Deteccion de tipos de prendas de ropa](/ESP/Learning2ES.ipynb)
+
+# Entorno de trabajo
+- [Google Colab](/ESP/Colab_ES.md)
 ## Opciones de Idioma
 - [Inglés](/README.md)
 
