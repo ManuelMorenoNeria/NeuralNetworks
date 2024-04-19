@@ -8,7 +8,7 @@ Welcome to the Neural Networks Repository! This repository contains various code
 In this repository, you'll find code examples and projects focusing on neural networks, their architectures, and applications in different domains.
 
 ## Libraries for Neural Networks
-- [TensorFlow](/ENG/TensorFlow_EN.md)
+- [TensorFlow](ENG/TensorFLow_EN.md)
 - [Keras](/ENG/Keras_EN.md)
 ## Projects
 - [Handwritten Number Detection](/ENG/Learning1EN.ipynb)
