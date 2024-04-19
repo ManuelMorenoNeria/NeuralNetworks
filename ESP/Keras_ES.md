@@ -17,3 +17,13 @@ Está especialmente diseñada para posibilitar la experimentación en más o men
 - **Desarrollo de productos de inteligencia artificial**
 - **Educación y enseñanza** 
 - **Investigación médica** 
+
+
+## Ventajas de Keras
+- **Simplicidad:** Fácil de aprender y utilizar.
+- **Flexibilidad:** Permite experimentar con diferentes arquitecturas de redes neuronales.
+- **Compatibilidad:** Se integra fácilmente con otros frameworks de aprendizaje profundo.
+- **Amplia adopción:** Utilizado en una variedad de campos, desde la investigación hasta la industria.
+
+## Historia
+La historia comienza en 2015 cuando François Chollet, un ingeniero de Google, lo desarrolló como una interfaz de alto nivel para TensorFlow. Desde entonces, ha ganado popularidad como una biblioteca versátil y fácil de usar para construir modelos de redes neuronales en Python.
