@@ -14,6 +14,8 @@ In this repository, you'll find code examples and projects focusing on neural ne
 - [Handwritten Number Detection](/ENG/Learning1EN.ipynb)
 - [Clothing Item Detection](/ENG/Learning2EN.ipynb)
 
+## Work Enviroment
+- [Google Colab](/ENG/Colab_EN.md)
 ## Language Options
 - [Spanish](/ESP/README_ES.md)
 
