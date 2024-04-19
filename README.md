@@ -12,6 +12,7 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 - [TensorFlow](ENG/TensorFLow_EN.md)
 - [Keras](/ENG/Keras_EN.md)
 ## Projects
+- [Convert Celsius degrees to Fahrenheit without using the conversion formula](/ENG/CelsiusToFahrenheit_EN.ipynb)
 - [Handwritten Number Detection](/ENG/Learning1EN.ipynb)
 - [Clothing Item Detection](/ENG/Learning2EN.ipynb)
 
