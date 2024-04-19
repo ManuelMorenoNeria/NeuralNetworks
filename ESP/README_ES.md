@@ -3,10 +3,12 @@
 
 ![1000_F_509951374_kvTFQJXSOIBPcM6UkwYeNVBPxvjFiuy0](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/878073ac-5f4a-4ada-b9d6-d46a48c64ad7)
 
-¡Bienvenido al Repositorio de Redes Neuronales! Este repositorio contiene diversos códigos y documentos relacionados con redes neuronales y Deep Learning.
+¡Bienvenido al Repositorio de Redes Neuronales! Este repositorio explicaremos como funcionan las redes neuronales ademas de aportar diversos códigos y documentos relacionados con redes neuronales y Deep Learning. Empecemos por lo básico:
 
-## Introducción
-En este repositorio encontrarás ejemplos de código y proyectos centrados en redes neuronales, sus arquitecturas y aplicaciones en diferentes dominios.
+[¿Qué son las redes neuronales?](/ESP/QueSon.md)  
+
+[¿Cómo funcionan las redes neuronales?](/ESP/ComoFUncionan.md)
+
 
 ## Bibliotecas para Redes Neuronales
 - [TensorFlow](/ESP/TensorFlow_ES.md)
