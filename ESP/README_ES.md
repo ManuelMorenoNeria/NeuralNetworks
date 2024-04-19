@@ -14,4 +14,4 @@ En este repositorio encontrarás ejemplos de código y proyectos centrados en re
 - [Inglés](/README.md)
 
 ## Licencia
-![download](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/e9a4f145-e3f8-4732-9e6a-5419c7863341)
+![licencia](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/b860d6df-be55-4733-b9b0-19ccd2a93df7)
