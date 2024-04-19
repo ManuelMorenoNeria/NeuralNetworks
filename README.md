@@ -15,4 +15,4 @@ In this repository, you'll find code examples and projects focusing on neural ne
 - [Spanish](/ESP/README_ES.md)
 
 ## License
-![License](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/e9a4f145-e3f8-4732-9e6a-5419c7863341)
+![licencia](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/6bc23ff9-fdfe-462a-977d-8d636efae8aa)
