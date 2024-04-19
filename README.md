@@ -2,10 +2,11 @@
 
 ![Neural Networks](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/878073ac-5f4a-4ada-b9d6-d46a48c64ad7)
 
-Welcome to the Neural Networks Repository! This repository contains various code and documents related to neural networks and Deep Learning.
+Welcome to the Neural Networks Repository! This repository will explain how neural networks work in addition to providing various codes and documents related to neural networks and Deep Learning. Let's start with the basics:
 
-## Introduction
-In this repository, you'll find code examples and projects focusing on neural networks, their architectures, and applications in different domains.
+[What are neural networks?](/ENG/WhatAre.md)
+
+[How do neural networks work?](/ENG/HowItWorks.md)
 
 ## Libraries for Neural Networks
 - [TensorFlow](ENG/TensorFLow_EN.md)
