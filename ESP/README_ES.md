@@ -7,7 +7,7 @@
 
 [¿Qué son las redes neuronales?](/ESP/QueSon.md)  
 
-[¿Cómo funcionan las redes neuronales?](/ESP/ComoFUncionan.md)
+[¿Cómo funcionan las redes neuronales?](/ESP/ComoFuncionan.md)
 
 
 ## Bibliotecas para Redes Neuronales
