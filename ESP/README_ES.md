@@ -9,8 +9,8 @@
 En este repositorio encontrarás ejemplos de código y proyectos centrados en redes neuronales, sus arquitecturas y aplicaciones en diferentes dominios.
 
 ## Bibliotecas para Redes Neuronales
-- [TensorFlow](/ESP/TensorFlow_ESP.md)
-- [Keras](/ESP/Keras_ESP.md)
+- [TensorFlow](/ESP/TensorFlow_ES.md)
+- [Keras](/ESP/Keras_ES.md)
 ## Proyectos
 - [Deteccion de numeros escritos a mano](/ESP/Learning1ES.ipynb)
 - [Deteccion de tipos de prendas de ropa](/ESP/Learning2ES.ipynb)
