@@ -11,7 +11,7 @@
 
 
 ## Bibliotecas para Redes Neuronales 📚
- [![TensorFlow](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/9e795ab1-a184-446c-81e5-e2661ec75c99)](ESP/TensorFLow_ES.md)
+ [![TensorFlow](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/9e795ab1-a184-446c-81e5-e2661ec75c99)](/ESP/TensorFLow_ES.md)
 
  [![Keras](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/4393e800-32b9-4db3-a051-020adaa1633c)](/ESP/Keras_ES.md)
 ## Proyectos 👨‍💻
