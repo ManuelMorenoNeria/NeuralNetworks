@@ -6,8 +6,7 @@ Desglosemos los pasos:
 
 **1. Inicialización de pesos:** Los pesos de las conexiones entre las neuronas se inicializan aleatoriamente o con valores predefinidos.
 
-**2.Forward propagation:** Durante esta etapa, los datos de entrada se propagan a través de la red neuronal desde la capa de entrada hasta la capa de salida. En cada neurona, se realiza una suma ponderada de las entradas multiplicadas por los pesos y se aplica una función de activación para determinar la salida de la neurona.
-
+**2.Forward propagation:** Durante esta etapa, los datos de entrada se propagan a través de la red neuronal desde la capa de entrada hasta la capa de salida.
 
 **3.Cálculo de la pérdida (Loss calculation):** Una vez que la red neuronal produce una salida, se calcula la diferencia entre la salida predicha y la salida real utilizando una función de pérdida
 
@@ -28,7 +27,7 @@ Como hemos visto anteriormente, una red neuronal esta formada por los siguientes
 - Suma Ponderada
 - Funcion de activacion
 
-Funcionamiento de la red neuronal:
+Estos elementos funcionan de la siguiente manera:
 
 **1. Multiplicamos los parametros de entrada por los pesos de la primera capa** 
 
