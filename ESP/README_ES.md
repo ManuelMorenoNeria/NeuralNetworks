@@ -9,7 +9,7 @@
 
 [¿Cómo funcionan las redes neuronales?](/ESP/ComoFuncionan.md)
 
-[¿Qué tipos de redes neuronales existen](/ESP/tipos.md)
+[¿Qué tipos de redes neuronales existen?](/ESP/tipos.md)
 
 
 ## Bibliotecas para Redes Neuronales 📚
