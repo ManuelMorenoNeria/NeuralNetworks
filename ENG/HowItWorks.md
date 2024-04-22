@@ -27,14 +27,15 @@ As we have seen previously, a neural network is composed of the following elemen
 - Biases
 - Weighted Sum
 - Activation Function
-- These elements work as follows:
 
-**1. We multiply the input parameters by the weights of the first layer.**
+These elements work as follows:
 
-**2. We add the bias to the product of the multiplication.**
+**1. Multiply the input parameters by the weights of the first layer.**
+
+**2. Add the bias to the product of the multiplication.**
 
 **3. The activation function of the next layer is applied to the previous result**
 
 **4. The result is sent to the next layer.**
 
-**5. We repeat the process.**
+**5. Repeat the process.**
