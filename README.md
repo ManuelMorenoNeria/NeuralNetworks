@@ -13,6 +13,7 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 - [Keras](/ENG/Keras_EN.md)
 ## Projects
 - [Predict the price of houses based on square meters](/ENG/HousesPrice.ipynb)
+- [Predict the price of a car based on new price and mileage](/ENG/CarsPrice.ipynb)
 - [Convert Celsius degrees to Fahrenheit without using the conversion formula](/ENG/CelsiusToFahrenheit_EN.ipynb)
 - [Handwritten Number Detection](/ENG/Learning1EN.ipynb)
 - [Clothing Item Detection](/ENG/Learning2EN.ipynb)
