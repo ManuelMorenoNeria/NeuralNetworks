@@ -9,6 +9,8 @@
 
 [¿Cómo funcionan las redes neuronales?](/ESP/ComoFuncionan.md)
 
+[¿Qué tipos de redes neuronales existen](/ESP/tipos.md)
+
 
 ## Bibliotecas para Redes Neuronales 📚
  [![TensorFlow](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/9e795ab1-a184-446c-81e5-e2661ec75c99)](/ESP/TensorFlow_ES.md)
