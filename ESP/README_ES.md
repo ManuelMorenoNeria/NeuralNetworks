@@ -17,8 +17,9 @@
 - [Predice el precio de las casas según sus metros cuadrados](/ESP/PrecioCasas.ipynb)
 - [Predice el precio de un coche seminuevo según el precio nuevo y el kilometraje](/ESP/PrecioCoche.ipynb)
 - [Convertir grados Celsius a Farehnheit sin saber la formula](/ESP/CelsiusToFahrenheit_ES.ipynb)
-- [Deteccion de números escritos a mano](/ESP/Learning1ES.ipynb)
-- [Deteccion de tipos de prendas de ropa](/ESP/Learning2ES.ipynb)
+- [Clasificación de flores según sus caracteristicas](/ESP/ClasificarFlores.ipynb)
+- [Detección de números escritos a mano](/ESP/Learning1ES.ipynb)
+- [Detección de tipos de prendas de ropa](/ESP/Learning2ES.ipynb)
 
 # Entorno de trabajo
 - [Google Colab](/ESP/Colab_ES.md)
