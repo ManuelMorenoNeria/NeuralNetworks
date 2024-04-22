@@ -23,7 +23,9 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 ## Work Enviroment 🛠
 [![colab](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/d95b1b4d-ea07-4903-906f-95a83d5fb725)](/ENG/Colab_EN.md)
 ## Language Options ㊙
-- [Spanish](/ESP/README_ES.md)
+
+[![Spanish](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/7423fea8-62b0-478a-a496-5007c0939962)](/ESP/README_ES.md)
 
 ## License ⛔
+
 ![licencia](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/6bc23ff9-fdfe-462a-977d-8d636efae8aa)
