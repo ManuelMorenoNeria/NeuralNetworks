@@ -9,9 +9,9 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 [How do neural networks work?](/ENG/HowItWorks.md)
 
 ## Libraries for Neural Networks 📚
-- [![TensorFlow](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/9e795ab1-a184-446c-81e5-e2661ec75c99)](ENG/TensorFLow_EN.md)
+ [![TensorFlow](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/9e795ab1-a184-446c-81e5-e2661ec75c99)](ENG/TensorFLow_EN.md)
 
-- [Keras](/ENG/Keras_EN.md)
+ [![Keras](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/4393e800-32b9-4db3-a051-020adaa1633c)](/ENG/Keras_EN.md)
 ## Projects 👨‍💻
 - [Predict the price of houses based on square meters](/ENG/HousesPrice.ipynb)
 - [Predict the price of a car based on new price and mileage](/ENG/CarsPrice.ipynb)
@@ -21,7 +21,7 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 - [Clothing Item Detection](/ENG/Learning2EN.ipynb)
 
 ## Work Enviroment 🛠
-- [Google Colab](/ENG/Colab_EN.md)
+[![colab](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/d95b1b4d-ea07-4903-906f-95a83d5fb725)](/ENG/Colab_EN.md)
 ## Language Options ㊙
 - [Spanish](/ESP/README_ES.md)
 
