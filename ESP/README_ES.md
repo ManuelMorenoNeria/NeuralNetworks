@@ -14,9 +14,10 @@
 - [TensorFlow](/ESP/TensorFlow_ES.md)
 - [Keras](/ESP/Keras_ES.md)
 ## Proyectos
-- [Predice el precio de las casas segun sus metros cuadrados](/ESP/PrecioCasas.ipynb)
+- [Predice el precio de las casas según sus metros cuadrados](/ESP/PrecioCasas.ipynb)
+- [Predice el precio de un coche seminuevo según el precio nuevo y el kilometraje](/ESP/PrecioCoche.ipynb)
 - [Convertir grados Celsius a Farehnheit sin saber la formula](/ESP/CelsiusToFahrenheit_ES.ipynb)
-- [Deteccion de numeros escritos a mano](/ESP/Learning1ES.ipynb)
+- [Deteccion de números escritos a mano](/ESP/Learning1ES.ipynb)
 - [Deteccion de tipos de prendas de ropa](/ESP/Learning2ES.ipynb)
 
 # Entorno de trabajo
