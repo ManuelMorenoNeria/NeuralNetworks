@@ -22,12 +22,12 @@ Let's explain step 2 in more detail:
 
 As we have seen previously, a neural network is composed of the following elements:
 
-Inputs
-Weights
-Biases
-Weighted Sum
-Activation Function
-These elements work as follows:
+- Inputs
+- Weights
+- Biases
+- Weighted Sum
+- Activation Function
+- These elements work as follows:
 
 **1. We multiply the input parameters by the weights of the first layer.**
 
