@@ -31,6 +31,8 @@
 [![Inglés](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/732e5976-0d57-463a-83e3-237ded866888)](/README.md)
 
 ## Bibliografia 💻
-
+[Apartado de aprendizaje de TensorFLow](https://www.tensorflow.org/learn?hl=es-419)
+[Curso de Youtube](https://www.youtube.com/@RingaTech)
+[ChatGPT](https://chat.openai.com/)
 ## Licencia 🛑
 ![licencia](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/b860d6df-be55-4733-b9b0-19ccd2a93df7)
