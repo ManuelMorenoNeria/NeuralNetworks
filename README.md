@@ -13,6 +13,7 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 
  [![Keras](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/4393e800-32b9-4db3-a051-020adaa1633c)](/ENG/Keras_EN.md)
 ## Projects 👨‍💻
+### Feedforward Neural Networks 
 - [Predict the price of houses based on square meters](/ENG/HousesPrice.ipynb)
 - [Predict the price of a car based on new price and mileage](/ENG/CarsPrice.ipynb)
 - [Convert Celsius degrees to Fahrenheit without using the conversion formula](/ENG/CelsiusToFahrenheit_EN.ipynb)
@@ -22,10 +23,10 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 
 ## Work Enviroment 🛠
 [![colab](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/d95b1b4d-ea07-4903-906f-95a83d5fb725)](/ENG/Colab_EN.md)
-## Language Options ㊙
+## Language Options 🗣
 
 [![Spanish](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/7423fea8-62b0-478a-a496-5007c0939962)](/ESP/README_ES.md)
 
-## License ⛔
+## License 🛑
 
 ![licencia](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/6bc23ff9-fdfe-462a-977d-8d636efae8aa)
