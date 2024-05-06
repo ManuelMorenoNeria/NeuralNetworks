@@ -19,8 +19,6 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 - [Predict the price of a car based on new price and mileage](/ENG/CarsPrice.ipynb)
 - [Convert Celsius degrees to Fahrenheit without using the conversion formula](/ENG/CelsiusToFahrenheit_EN.ipynb)
 - [Classify flowers according to their characteristics](/ENG/ClassifyingFLowers.ipynb)
-- [Handwritten Number Detection](/ENG/Learning1EN.ipynb)
-- [Clothing Item Detection](/ENG/Learning2EN.ipynb)
 
 ## Work Enviroment 🛠
 [![colab](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/d95b1b4d-ea07-4903-906f-95a83d5fb725)](/ENG/Colab_EN.md)
