@@ -26,7 +26,7 @@
 
 # Entorno de trabajo 🛠
 [![colab](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/d95b1b4d-ea07-4903-906f-95a83d5fb725)](/ESP/Colab_ES.md)
-## Opciones de Idioma 🗣
+## Idiomas 🗣
 [![Inglés](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/732e5976-0d57-463a-83e3-237ded866888)](/README.md)
 
 ## Bibliografia 💻
