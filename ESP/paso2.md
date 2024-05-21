@@ -11,6 +11,8 @@ Como hemos visto anteriormente, una red neuronal esta formada por los siguientes
 - Funcion de activacion
 
 
+![51549981077_3a7a520c81_b](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/da85bd68-1a55-49ce-ab79-272db89f3b5e)
+
 Estos elementos funcionan de la siguiente manera:
 
   1. Multiplicamos los parametros de entrada por los pesos de la primera capa
