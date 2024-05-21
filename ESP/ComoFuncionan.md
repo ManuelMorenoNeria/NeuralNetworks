@@ -13,7 +13,7 @@ En esta etapa, los pesos de las conexiones entre las neuronas se establecen inic
 **2. Forward propagation:** 
 
    - Durante la propagación hacia adelante, los datos de entrada se transmiten a través de la red neuronal desde la capa de entrada hasta la capa de salida.
-   - Cada neurona en una capa oculta realiza una suma ponderada de las entradas recibidas, multiplicando cada entrada por su peso correspondiente y sumando los resultados. Luego, se agrega un sesgo a esta suma ponderada.
+   - Cada neurona en una capa oculta realiza una suma ponderada de las entradas recibidas. La suma ponderada no es mas que la multiplicación de cada entrada por su peso correspondiente. Luego, se agrega un sesgo a esta suma ponderada. para obtener el output de esa neurona.
    - El resultado de esta operación se pasa a través de una función de activación, que determina si la neurona debe "activarse" y cuál será su salida.
    - Este proceso se repite para cada capa de la red neuronal hasta llegar a la capa de salida, que produce la predicción final.
      
