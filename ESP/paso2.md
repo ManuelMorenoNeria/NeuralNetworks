@@ -15,15 +15,15 @@ Como hemos visto anteriormente, una red neuronal esta formada por los siguientes
 
 Estos elementos funcionan de la siguiente manera:
 
-  1. Multiplicamos los parametros de entrada por los pesos de la primera capa
+**1. Multiplicamos los parametros de entrada por los pesos de la primera capa**
 
-  2. Sumamos el sesgo al producto de la multiplicacion
+**2. Sumamos el sesgo al producto de la multiplicacion**
 
-  3. Al resultado anterior se le aplica la funcion de activacion de la siguiente capa. Antes de continuar expliquemos la finalidad de aplicar una función de activación.
+**3. Al resultado anterior se le aplica la funcion de activacion de la siguiente capa. Antes de continuar expliquemos la finalidad de aplicar una función de activación.**
      
      
-       Las funciones de activación permiten que una red neuronal aprenda relaciones más complejas y flexibles entre los datos de entrada y la salida, no se limita a relaciones lineales simples (como una línea recta). En lugar de tratar de ajustar los datos a una relación estricta y directa, como lo haría una línea recta, las funciones de activación permiten que la red aprenda y modele relaciones no lineales, como curvas o formas más complejas.
+  Las funciones de activación permiten que una red neuronal **aprenda relaciones más complejas y flexibles** entre los datos de entrada y la salida, **no se limita a relaciones lineales simples** (como una línea recta). En lugar de tratar de ajustar los datos a una relación estricta y directa, como lo haría una línea recta, las funciones de activación permiten que la red aprenda y modele relaciones no lineales, como curvas o formas más complejas.
      
-  5. Se envia a la capa siguiente el resultado
+**5. Se envia a la capa siguiente el resultado**
 
-  6. Repetimos el proceso
+**6. Repetimos el proceso**
