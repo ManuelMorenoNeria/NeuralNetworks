@@ -27,10 +27,9 @@ En esta etapa, los pesos de las conexiones entre las neuronas se establecen inic
      
 **4. Retropropagación del error (Backpropagation):** 
 
-En esta etapa, el algoritmo de optimización calcula la derivada de la función de pérdida con respecto a los pesos de la red neuronal. Esta derivada indica cómo deben ajustarse los pesos para minimizar la pérdida.
-   - En esta etapa, el algoritmo de optimización calcula la derivada de la función de pérdida con respecto a los pesos de la red neuronal. Esta derivada indica cómo deben ajustarse los pesos para minimizar la pérdida.
-   - Utilizando la regla de la cadena, esta derivada se propaga hacia atrás a través de la red neuronal, permitiendo calcular la contribución de cada peso a la pérdida total.
-   - Con esta información, se actualizan los pesos de la red neuronal utilizando un algoritmo de optimización, como el descenso de gradiente, con el objetivo de reducir la pérdida.
+- En esta etapa, se calcula la derivada de la función de pérdida con respecto a los pesos de la red neuronal. Esta derivada muestra cómo ajustar los pesos para minimizar la pérdida.
+- La derivada se propaga hacia atrás a través de la red utilizando la regla de la cadena, calculando la contribución de cada peso a la pérdida total.
+- Con esta información, se actualizan los pesos usando un algoritmo de optimización, como el descenso de gradiente, para reducir la pérdida.
      
      [Para profundizar mas en este punto. !Clica aquí¡](/ESP/paso4.md)
      
