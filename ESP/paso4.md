@@ -21,3 +21,4 @@ La retropropagación del error es un proceso crucial en el entrenamiento de rede
 6. **Iteración y Convergencia**:
    - Este proceso se repite  para múltiples épocas  hasta que la función de pérdida alcanza un valor mínimo aceptable, lo que indica que la red ha aprendido a hacer predicciones precisas.
 
+![maxresdefault](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/a13ee79a-395a-45f2-8d11-5a7861b33524)
