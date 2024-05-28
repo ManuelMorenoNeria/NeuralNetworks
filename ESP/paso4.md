@@ -1,5 +1,4 @@
-### Explicación Detallada
-#### Retropropagación del Error (Backpropagation):
+### Retropropagación del Error (Backpropagation):
 
 La retropropagación del error es un proceso crucial en el entrenamiento de redes neuronales. Aquí se describe paso a paso cómo funciona:
 
