@@ -15,7 +15,7 @@ At this stage, the weights of the connections between neurons are initially set 
    - The result of this operation is passed through an activation function, which determines if the neuron should "activate" and what its output will be.
    - This process is repeated for each layer of the neural network until reaching the output layer, which produces the final prediction.
 
-   [To delve deeper into this step, click here.](/ENG/step2.md)
+   [To know more about this step, click here.](/ENG/step2.md)
 
 **3. Loss Calculation:**
 
@@ -28,7 +28,7 @@ At this stage, the weights of the connections between neurons are initially set 
    - The derivative is propagated backward through the network using the chain rule, calculating the contribution of each weight to the total loss.
    - With this information, the weights are updated using an optimization algorithm, such as gradient descent, to reduce the loss.
 
-   [To delve deeper into this step, click here.](/ENG/step4.md)
+   [To know more about this step, click here.](/ENG/step4.md)
 
 **5. Weight Update:**
 
