@@ -37,23 +37,3 @@ At this stage, the weights of the connections between neurons are initially set 
 
 ![neural-networks](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/8920a051-1826-4185-a2eb-27cf05ccbb6a)
 
-Let's explain step 2 in more detail:
-
-As we have seen before, a neural network consists of the following elements:
-- Inputs
-- Weights
-- Biases
-- Weighted Sum
-- Activation Function
-
-These elements operate as follows:
-
-**1. Multiply the input parameters by the weights of the first layer**
-
-**2. Add the bias to the product of the multiplication**
-
-**3. Apply the activation function of the next layer to the previous result**
-
-**4. Send the result to the next layer**
-
-**5. Repeat the process**
