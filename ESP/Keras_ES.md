@@ -13,7 +13,7 @@ Está especialmente diseñada para posibilitar la experimentación en más o men
 
 
 ## Aplicaciones y usos
-- **Investigación en aprendizaje profundo** 
+- **Investigación en Deep Learning** 
 - **Desarrollo de productos de inteligencia artificial**
 - **Educación y enseñanza** 
 - **Investigación médica** 
