@@ -8,7 +8,6 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 
 [How do neural networks work?](/ENG/HowItWorks.md)
 
-[Types of neural networks](/ENG/types.md)
 ## Libraries for Neural Networks 📚
  [![TensorFlow](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/9e795ab1-a184-446c-81e5-e2661ec75c99)](ENG/TensorFLow_EN.md)
 
