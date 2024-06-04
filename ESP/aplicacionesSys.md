@@ -1,4 +1,4 @@
-# Aplicaciones de IA y Redes Neuronales en la Administración de Sistemas Informáticos en Red
+# Aplicaciones de las Redes Neuronales en la Administración de Sistemas 
 ![1708084580492](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/e2d90f3f-5343-43bc-909c-931784860f86)
 
 La inteligencia artificial y las redes neuronales son capaz de ayudarnos con la administración de sistemas proporcionando herramientas avanzadas para mejorar el monitoreo, la gestión de configuraciones, la seguridad y la automatización de tareas. 
