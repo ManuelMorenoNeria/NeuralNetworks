@@ -4,7 +4,7 @@ The latest version of Keras, Keras 3, provides additional benefits to those prev
 
 - **Unlocks an ecosystem of model options**: Allows you to work with extensions like PyTorch Module, TensorFlow Saved Model, or JAX instances.
 
-- **New distribution API**: The new `keras.distribution` facilitates model and data parallelism, making your workflow easy to develop and maintain.
+- **New distribution API**: The new keras.distribution facilitates model and data parallelism, making your workflow easy to develop and maintain.
 
 - **Maximizes the reach of open-source releases**: While using pure TensorFlow or PyTorch might be accessible to about half the community, with Keras 3, any user can use it regardless of the framework they choose (even if they are not a Keras user).
 
