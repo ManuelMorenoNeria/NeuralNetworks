@@ -15,7 +15,6 @@
 
  [![Keras](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/4393e800-32b9-4db3-a051-020adaa1633c)](/ESP/Keras_ES.md)
 ## Proyectos 👨‍💻
-### Redes Neuronales Feedforward (FNN)
 - [Predice el precio de las casas según sus metros cuadrados](/ESP/PrecioCasas.ipynb)
 - [Predice el precio de un coche seminuevo según el precio nuevo y el kilometraje](/ESP/PrecioCoche.ipynb)
 - [Convertir grados Celsius a Farehnheit sin saber la formula](/ESP/CelsiusToFahrenheit_ES.ipynb)
