@@ -18,6 +18,7 @@ Está especialmente diseñada para posibilitar la experimentación en más o men
 - **Educación y enseñanza** 
 - **Investigación médica** 
 
+De hecho Keras impulsa algunos de los sistemas de aprendizaje automático a mayor escala y sofisticados del mundo, como la **flota de vehículos autónomos Waymo** y el **motor de recomendaciones de YouTube**
 
 ## Ventajas de Keras
 - **Simplicidad:** Fácil de aprender y utilizar.
