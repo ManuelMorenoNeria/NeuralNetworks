@@ -25,5 +25,7 @@ Está especialmente diseñada para posibilitar la experimentación en más o men
 - **Compatibilidad:** Se integra fácilmente con otros frameworks de aprendizaje profundo.
 - **Amplia adopción:** Utilizado en una variedad de campos, desde la investigación hasta la industria.
 
+[¡Clica aqui para ver las novedades de la ultima version de keras KERAS 3!](/ESP/keras3.md)
+
 ## Historia
 La historia comienza en 2015 cuando François Chollet, un ingeniero de Google, lo desarrolló como una interfaz de alto nivel para TensorFlow. Desde entonces, ha ganado popularidad como una biblioteca versátil y fácil de usar para construir modelos de redes neuronales en Python.
