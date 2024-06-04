@@ -8,24 +8,21 @@ La inteligencia artificial y las redes neuronales son capaz de ayudarnos con la 
 
 El monitoreo de red se beneficia significativamente de la IA y las redes neuronales al realizar análisis predictivos para la detección de fallos.
 
-#### Implementación y Funcionalidad
 - **Análisis Predictivo**: Analiza patrones de tráfico y predice posibles fallos antes de que ocurran.
-- **Detección de Fallos**: Implementar algoritmos de aprendizaje automático para detectar comportamientos anómalos en tiempo real, identificando posibles amenazas o problemas de rendimiento que podrían pasar desapercibidos con métodos tradicionales.
+- **Detección de Fallos**: Implementar algoritmos de aprendizaje automático para identificar posibles amenazas o problemas de rendimiento.
 - **Optimización de Recursos**: La IA puede sugerir optimizaciones en la asignación de recursos de red basándose en el análisis continuo de uso y demanda.
 
 ### 2. Gestión de Configuraciones
 
 La gestión de configuraciones puede ser mejorada mediante IA para asegurar consistencia y eficiencia en la configuración de dispositivos y servicios.
 
-#### Implementación y Funcionalidad
 - **Autoconfiguración Inteligente**: Las redes neuronales pueden aprender de configuraciones previas y sugerir o implementar automáticamente configuraciones óptimas para nuevos dispositivos.
-- **Corrección Automática**: Implementar sistemas que no solo detecten problemas de configuración, sino que también propongan o realicen ajustes automáticamente para mantener la consistencia.
+- **Corrección Automática**: Implementar sistemas que no solo detecten problemas de configuración, sino que también propongan o realicen ajustes automáticamente.
 
 ### 3. Gestión de Seguridad
 
 En este campo la Inteligencia Artificial y las redes neuronales nos permiten una detección y respuesta más rápida y precisa ante amenazas.
 
-#### Implementación y Funcionalidad
 - **Detección de Intrusiones**: Con redes neuronales entrenadas podriamos reconocer patrones de comportamiento malicioso y bloquear ataques en tiempo real.
 - **Análisis de Vulnerabilidades**: Utilizar IA para escanear continuamente la red y analizar vulnerabilidades potenciales.
 - **Respuesta Automática**: Se podria entrenar una red nueronal para rponder automáticamente a incidentes de seguridad, aplicando parches, bloqueando accesos o aislando información vulnerable.
@@ -35,6 +32,5 @@ En este campo la Inteligencia Artificial y las redes neuronales nos permiten una
 
 La automatización de tareas mediante IA permite realizar operaciones repetitivas de manera más eficiente.
 
-#### Implementación y Funcionalidad
 - **Script Inteligente**: Utilizar IA para generar y mejorar scripts de automatización.
-- **Monitoreo y Ajuste**: Sistemas de IA pueden monitorear la ejecución de tareas automatizadas y realizar ajustes en tiempo real para asegurar la eficiencia y minimizar errores.
+- **Monitoreo y Ajuste**: Sistemas de IA pueden monitorear la ejecución de tareas automatizadas y realizar ajustes para asegurar la eficiencia y minimizar errores.
