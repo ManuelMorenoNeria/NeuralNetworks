@@ -23,5 +23,6 @@ It is specially designed to enable experimentation with Deep Learning networks i
 - **Compatibility:** Easily integrates with other deep learning frameworks.
 - **Wide adoption:** Used in a variety of fields, from research to industry.
 
+[Click here if you want to learn about the latest version of Keras, KERAS 3!](/ENG/keras3.md)
 ## History
 The history begins in 2015 when François Chollet, a Google engineer, developed it as a high-level interface for TensorFlow. Since then, it has gained popularity as a versatile and easy-to-use library for building neural network models in Python.
