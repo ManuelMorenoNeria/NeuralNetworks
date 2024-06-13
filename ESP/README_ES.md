@@ -19,7 +19,7 @@
 - [Predice el precio de un coche seminuevo según el precio nuevo y el kilometraje](/ESP/PrecioCoche.ipynb)
 - [Convertir grados Celsius a Farehnheit sin saber la formula](/ESP/CelsiusToFahrenheit_ES.ipynb)
 - [Clasificación de flores según sus caracteristicas](/ESP/ClasificarFlores.ipynb)
-- [Adivinar si una letra es del impresor real o es imitación](/ESP/PreparandoLetras.ipynb)
+- [Adivinar si una letra es del impresor real o es imitación](/ESP/tfg_completo.ipynb)
 
 # Entorno de trabajo 🛠
 [![colab](https://github.com/ManuelMorenoNeria/NeuralNetworks/assets/114908218/d95b1b4d-ea07-4903-906f-95a83d5fb725)](/ESP/Colab_ES.md)
