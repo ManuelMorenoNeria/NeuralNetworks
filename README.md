@@ -19,7 +19,7 @@ Welcome to the Neural Networks Repository! This repository will explain how neur
 - [Predict the price of a car based on new price and mileage](/ENG/CarsPrice.ipynb)
 - [Convert Celsius degrees to Fahrenheit without using the conversion formula](/ENG/CelsiusToFahrenheit_EN.ipynb)
 - [Classify flowers according to their characteristics](/ENG/ClassifyingFLowers.ipynb)
-- [Guess if a letter belongs to a real printer or is fake](/ESP/PreparandoLetras.ipynb)
+- [Guess if a letter belongs to a real printer or is fake](/ESP/tfg_completo.ipynb)
 
 
 ## Work Enviroment 🛠
